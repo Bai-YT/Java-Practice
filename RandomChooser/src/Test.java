@@ -1,0 +1,10 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		RandomChooser rc = new RandomChooser(new String[]{"shit", "naizi", "mdzz", "wwww", "2333"});
+		for(int i = 0; i < 10; i++)
+			//System.out.println(
+			rc.RandomString();
+	}
+}

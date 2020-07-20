@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>A2</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.5.0_05</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="TestFish"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>TestFish</run>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>MBS</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<fileitem>
+				<path>BoundedEnv.java</path>
+			</fileitem>
+			<fileitem>
+				<path>DarterFish.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Environment.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Fish.java</path>
+			</fileitem>
+			<fileitem>
+				<path>PounceFish.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Simulation.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TestFish.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

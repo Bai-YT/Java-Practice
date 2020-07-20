@@ -1,0 +1,38 @@
+
+public class RandomChooser {
+
+	private String[] s;
+	
+	public RandomChooser(){}
+	
+	public RandomChooser(String[] str){
+		s = str;
+	}
+	
+	public String RandomString(){
+		if(s.length == 0)
+			return "NONE";
+		else
+		{
+			int index = (int)(Math.random()*s.length);
+			String b = s[index];
+			int a = 0;
+			String[] str2 = new String[s.length-1];
+			for(int i = 0; i < s.length; i++)
+			{
+				if(i != index)
+				{
+					str2[a] = s[i];
+					a++;
+				}
+			}
+			s = str2;
+			System.out.println();
+			for(String c : s)
+				System.out.println(c);
+			System.out.println();
+			System.out.println("b = " + b);
+			return b;
+		}
+	}	
+}

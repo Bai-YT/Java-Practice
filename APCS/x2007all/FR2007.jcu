@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>AB3</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>A1</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>A2</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>A3</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>A4</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>AB1</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>AB2</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>AB3</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>AB4</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>AB4\EnvIterator.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

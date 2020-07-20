@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FR2007</label>
+	</settings>
+	<users>
+		<user>
+			<path>FR2007.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>A1\A1.jcp</path>
+		</project>
+		<project>
+			<path>A2\A2.jcp</path>
+		</project>
+		<project>
+			<path>A3\A3.jcp</path>
+		</project>
+		<project>
+			<path>A4\A4.jcp</path>
+		</project>
+		<project>
+			<path>AB1\AB1.jcp</path>
+		</project>
+		<project>
+			<path>AB2\AB2.jcp</path>
+		</project>
+		<project>
+			<path>AB3\AB3.jcp</path>
+		</project>
+		<project>
+			<path>AB4\AB4.jcp</path>
+		</project>
+	</projects>
+</workspace>
